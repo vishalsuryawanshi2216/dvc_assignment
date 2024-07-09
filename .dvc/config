@@ -1,0 +1,4 @@
+[core]
+    remote = tutremote
+['remote "tutremote"']
+    url = C:\Users\\hp\\Desktop\\Vishal\\AI at Scale\\CH23M544 Assignment 4\\dvc-storage
